@@ -14,3 +14,5 @@ This is the design before pressing the login button at the top right corner
 <p>This shows the design of the signup page </p>
 
 ![the login screenshot](screenshot/3.PNG)
+
+<pre align="center">Abiola Enoch God'slove</pre>
